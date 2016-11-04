@@ -1,7 +1,7 @@
 package com.example.marty_000.myapp1;
 
 import android.widget.ImageView;
-
+// This class combines a String with an ImageView
 public class ImageVisability
 {
     private String key;
