@@ -1,8 +1,7 @@
 package com.example.marty_000.myapp1;
 
 import android.widget.ImageView;
-/*
- * 4-11-2016
+/* 4-11-2016
  * M.Heijstek, 10800441
  * This class combines a String with an ImageView
  * and is used in "MainActivity.java"
